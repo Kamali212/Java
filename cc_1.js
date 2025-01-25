@@ -26,5 +26,10 @@ console.log(accountBalance); // logging account balance after multiplication
 accountBalance /=2; // dividing balance by 2
 console.log(accountBalance); // logging account balance after division
 
+// Task 4 String Data Type
+
+let customername = "Luke Skywalker"; // assigning a variable for customer name and assigning it a string value
+let greeting = "Welcome, " + customername + "!"; // assigning a variable for greeting 
+console.log(greeting); // logging greeting 
 
 
