@@ -14,3 +14,17 @@ console.log(typeof productName); // logging product name and string type to the 
 console.log(typeof productPrice); // logging product price and string type to the console
 console.log(typeof productquantity); // logging product quantity and string type to the console
 
+// Task 3 Number Data Type
+
+let accountBalance = 13000; // assigning a variable for account balance and assigning it a numeric value
+accountBalance += 200; // adding a numeric value to account balance
+console.log(accountBalance); // logging account balance after addition
+accountBalance -=1000; // subtracting numeric value from account balance
+console.log(accountBalance); // logging account balance after subtraction
+accountBalance *= 2; // multiplying balance by 2
+console.log(accountBalance); // logging account balance after multiplication
+accountBalance /=2; // dividing balance by 2
+console.log(accountBalance); // logging account balance after division
+
+
+
