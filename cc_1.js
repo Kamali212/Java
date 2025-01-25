@@ -32,4 +32,13 @@ let customername = "Luke Skywalker"; // assigning a variable for customer name a
 let greeting = "Welcome, " + customername + "!"; // assigning a variable for greeting 
 console.log(greeting); // logging greeting 
 
+// Task 5 Boolean Data Type
+
+let isLoggedIn = true; // user is logged in 
+let hasaccess = false; // access check
+if (isLoggedIn && hasaccess) {
+    console.log("Access granted");}
+    else {
+    console.log("Access denied")
+    }
 
